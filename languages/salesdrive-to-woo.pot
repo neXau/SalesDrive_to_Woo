@@ -1,0 +1,63 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SalesDrive To Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-27 13:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: salesdrive-to-woo"
+
+#. Description of the plugin
+msgid "---"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/nexau/"
+msgstr ""
+
+#. Author of the plugin
+msgid "neXau"
+msgstr ""
+
+#: admin/integration-settings.php:38
+msgid "Run Integration"
+msgstr ""
+
+#: admin/integration-settings.php:57
+msgid "SalesDrive"
+msgstr ""
+
+#: admin/integration-settings.php:29
+msgid "SalesDrive - WooCommerce Integration Settings"
+msgstr ""
+
+#: admin/integration-settings.php:56
+msgid "SalesDrive Integration"
+msgstr ""
+
+#. Name of the plugin
+msgid "SalesDrive To Woo"
+msgstr ""
+
+#: admin/integration-settings.php:70
+msgid "Settings"
+msgstr ""
+
+#: salesdrive-to-woo.php:49
+msgid "Warning: Update WooCommerce! (SALESDRIVE INTEGRATION)."
+msgstr ""
+
+#: salesdrive-to-woo.php:60
+msgid ""
+"Warning: WooCommerce must be installed and activated for SALESDRIVE "
+"INTEGRATION to work correctly."
+msgstr ""
